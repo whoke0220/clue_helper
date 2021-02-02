@@ -1,0 +1,11 @@
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\bin\Release\Resources\lead_pipe.JPG
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\bin\Release\Keira's Clue Helper.exe.config
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\bin\Release\Keira's Clue Helper.exe
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\bin\Release\Keira's Clue Helper.pdb
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira's Clue Helper.csprojAssemblyReference.cache
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira_s_Clue_Helper.Form1.resources
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira_s_Clue_Helper.Properties.Resources.resources
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira's Clue Helper.csproj.GenerateResource.cache
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira's Clue Helper.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira's Clue Helper.exe
+C:\Users\willi\Documents\clue\Keira's_Clue_Helper\Keira's Clue Helper\obj\Release\Keira's Clue Helper.pdb
